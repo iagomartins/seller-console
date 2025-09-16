@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "company": "Acme Corp",
+    "email": "john.smith@acme.com",
+    "source": "website",
+    "score": 85,
+    "status": "new",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Sarah Johnson",
+    "company": "TechStart Inc",
+    "email": "sarah.j@techstart.com",
+    "source": "referral",
+    "score": 92,
+    "status": "contacted",
+    "createdAt": "2024-01-14T14:20:00Z",
+    "updatedAt": "2024-01-16T09:15:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Mike Chen",
+    "company": "Global Solutions",
+    "email": "mike.chen@globalsol.com",
+    "source": "social-media",
+    "score": 78,
+    "status": "qualified",
+    "createdAt": "2024-01-13T16:45:00Z",
+    "updatedAt": "2024-01-17T11:30:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Emily Davis",
+    "company": "Innovation Labs",
+    "email": "emily.davis@innolabs.com",
+    "source": "email-campaign",
+    "score": 88,
+    "status": "new",
+    "createdAt": "2024-01-12T09:15:00Z",
+    "updatedAt": "2024-01-12T09:15:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Robert Wilson",
+    "company": "Enterprise Systems",
+    "email": "r.wilson@enterprise.com",
+    "source": "cold-call",
+    "score": 65,
+    "status": "unqualified",
+    "createdAt": "2024-01-11T13:20:00Z",
+    "updatedAt": "2024-01-18T14:45:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Lisa Anderson",
+    "company": "Digital Dynamics",
+    "email": "lisa.anderson@digitaldyn.com",
+    "source": "trade-show",
+    "score": 91,
+    "status": "contacted",
+    "createdAt": "2024-01-10T11:30:00Z",
+    "updatedAt": "2024-01-16T16:20:00Z"
+  },
+  {
+    "id": "7",
+    "name": "David Brown",
+    "company": "CloudTech Solutions",
+    "email": "david.brown@cloudtech.com",
+    "source": "website",
+    "score": 82,
+    "status": "qualified",
+    "createdAt": "2024-01-09T15:45:00Z",
+    "updatedAt": "2024-01-17T10:15:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Jennifer Taylor",
+    "company": "Future Innovations",
+    "email": "j.taylor@futureinnov.com",
+    "source": "referral",
+    "score": 89,
+    "status": "new",
+    "createdAt": "2024-01-08T12:00:00Z",
+    "updatedAt": "2024-01-08T12:00:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Michael Garcia",
+    "company": "DataFlow Inc",
+    "email": "m.garcia@dataflow.com",
+    "source": "social-media",
+    "score": 76,
+    "status": "contacted",
+    "createdAt": "2024-01-07T14:30:00Z",
+    "updatedAt": "2024-01-15T13:45:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Amanda White",
+    "company": "Smart Systems",
+    "email": "amanda.white@smartsys.com",
+    "source": "email-campaign",
+    "score": 94,
+    "status": "qualified",
+    "createdAt": "2024-01-06T10:15:00Z",
+    "updatedAt": "2024-01-18T09:30:00Z"
+  }
+]
