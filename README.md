@@ -42,7 +42,7 @@ Dark layouts reduce eye strain in low-light environments. When using a device in
 - **Context API** - State management
 - **Custom Hooks** - Reusable logic
 - **Local Storage** - Data persistence
-
+- **Jest** - Unit Tests
 ## Project Structure
 
 ```
